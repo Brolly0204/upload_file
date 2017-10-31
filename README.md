@@ -8,3 +8,7 @@ npm install -g nodemon
 ```
 nodemon server
 ```
+## open browser
+```
+http://127.0.0.1:7000
+```
